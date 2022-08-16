@@ -1,5 +1,5 @@
 # NeuralNetworkFromScratch
-This is an implementation of neural network from scratch, we have trained mnist dataset and tested it on mnist test set, the accuracy is 89.2% on our model.
+This is an implementation of neural network from scratch, I trained mnist dataset and tested it on mnist test set, the accuracy is 89.2% on our model.
 
 
 #################################################################################################
